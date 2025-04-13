@@ -49,6 +49,7 @@ After running through the notebook with persona and function deifinitions, to ru
 
 ```python
 topic = "Could AGI arrive sooner than we think?"
-run_full_panel_simulation(topic)
+panel_discussion_transcript = run_full_panel_simulation(topic)
+Markdown(panel_discussion_transcript)
 ```
 
