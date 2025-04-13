@@ -45,7 +45,7 @@ Inspired by recursive reasoning and pluralistic design, the project demonstrates
 
 ## 🚀 Quickstart
 
-To run the full pipeline from a single prompt:
+After running through the notebook with persona and function deifinitions, to run the full pipeline from a single prompt use:
 
 ```python
 topic = "Could AGI arrive sooner than we think?"
