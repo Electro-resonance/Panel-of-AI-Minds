@@ -39,13 +39,13 @@ Inspired by recursive reasoning and pluralistic design, the project demonstrates
 ## 🔧 Requirements
 
 - Python 3.10+  
-- Google Generative AI SDK (Vertex AI or AI Studio)  
-- OpenAI or Kaggle notebook environment for secure key storage  
+- Google Generative AI SDK (Google AI Studio) with generated API key 
+- Anaconda Jupyter Notebook or Kaggle notebook environment
 - Optional: Google Text-to-Speech API for audio synthesis
 
 ## 🚀 Quickstart
 
-After running through the notebook with persona and function deifinitions, to run the full pipeline from a single prompt use:
+After running through the notebook with persona and function deifinitions, to run the full pipeline from your own single prompt use:
 
 ```python
 topic = "Could AGI arrive sooner than we think?"
